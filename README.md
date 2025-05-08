@@ -12,7 +12,6 @@ Aplicación web de e-commerce para venta de instrumentos musicales. Proyecto fin
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5 y CSS3
-- JavaScript (ES6)
 - Bootstrap para diseño responsive
 - Git y GitHub para control de versiones
 
