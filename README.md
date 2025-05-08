@@ -15,9 +15,6 @@ Aplicación web de e-commerce para venta de instrumentos musicales. Proyecto fin
 - Bootstrap para diseño responsive
 - Git y GitHub para control de versiones
 
-## 📸 Capturas de pantalla
-
-*(Aquí podés agregar imágenes del proyecto en funcionamiento)*
 
 ## 📦 Instalación
 
